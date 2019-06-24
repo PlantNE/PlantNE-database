@@ -1,0 +1,399 @@
+﻿Ref_ID,Country,Latitude,Longitude,Ecosystem
+1,Netherlands,52.08,5.12,Fen  
+2,Sweden,68.33,19,Mire
+2,Sweden,52.08,14.5,Mire
+3,Netherlands,52.08,5.12,Fen  
+4,Sweden,68.33,19,Mire
+4,Sweden,57.08,14.5,Bog
+5,Australia,-27.08 ,153.15 ,Nd
+6,USA,36.00 ,-86.78 ,Temperate deciduous forest
+7,Thailand,13.65 ,100.48 ,Nd
+8,Netherlands,52.97,5.67,Nd
+9,USA,32,-105.83,Nd
+10,China,42,116,Semiarid grassland
+11,UK,53.45,-4.23,Grassland
+12,Venezuela,10.3,-66.56,A secondary savanna
+13,Venezuela,10.3,-66.56,A secondary savanna
+14,USA,41.67,-87.87,Temperate forest
+14,USA,41.63,-87,Temperate forest
+15,USA,42.37,-71.01,Nd
+16,Canada,45.92,-66.6,Nd
+17,New Zealand,-43.95,172.23,Temperate forest
+18,Canada,48.5,-125.5,Nd
+19,Switzerland,47.04 ,8.42 ,A calcareous fen
+20,USA,34,-81,Loblolly pine plantations
+21,Sweden,57.21,13.92,Nd
+22,Germany,51,11.68,Nd
+23,Germany,51,11.68,Nd
+24,USA,45.67,-111,Nd
+25,USA,41.2,-104.85,Grassland
+26,Norway,69.66,18.78,Subarctic ecosystem
+27,Italy,43.33,13,Mediterranean grassland
+28,Canada,61,-138.4,Boreal forest shrub
+29,USA,40.92,73.12,Nd
+30,USA,40,-105.3,Alpine tundra
+31,USA,39.8,-105.3,Alpine tundra
+32,USA,40,-105.3,Alpine tundra
+33,USA,32.67,-117.08,Sweetwater marsh
+34,Italy,46.35,11.73,Pristine Bog
+35,USA,40.78,-77.85,Nd
+36,USA,37.46,-83.12,Nd
+37,USA,35.01,-117.01,Desert
+38,Canada,45.67,-75.83,Mer Bleue bog
+39,UK,53.42 ,-1.50 ,Nd
+40,Singapore,1.33,103.83,Nd
+41,Singapore,1.33,103.83,Nd
+42,USA,39.94,-75.78,Grassland
+42,USA,39.94,-75.78,Grassland
+43,Australia,-35,117.93,Nd
+44,UK,53.38 ,-1.49 ,Nd
+45,New Zealand,-43.2,170.3,Nd
+46,USA,51.80 ,5.20 ,Nd
+47,Denmark,56.17 (A),10.2 (A),Nd
+48,USA,68.63,-149.57,Tussock tundra
+48,USA,68.45,-149.37,Tussock tundra
+49,China,29.7,103.23,Bamboo forest
+50,USA,40.57,-105,Nd
+51,China,25.02 ,121.54 ,Nd
+52,USA,68.63,20.85,Arctic tundra
+52,USA,68.63,-149.57,Arctic tundra
+53,Australia,-41.57,147.18,Nd
+54,USA,31.38,-81.72,Nd
+55,USA,37.6,-118.82,Sagebrush steppe
+56,USA,33.4,81.67,Nd
+57,USA,41.43 ,-89.87 ,Nd
+58,Switzerland ,47.45,8.95,Ryegrass swards
+59,USA,29.25,-91.35,Salt marsh
+60,Netherlands,52,5.67,Nd
+61,Netherlands,47.27 ,8.41 ,Nd
+62,USA,38.88,-107,Montane meadow
+63,USA,64.85,-147.72,Nd
+64,USA,29.8,-90.55,Nd
+65,USA,68.63,-149.63,Tundra
+65,USA,68.63 ,149.63 ,Nd
+66,Costa Rica,10.43 ,-83.98 ,Tropical forest
+67,USA,39.87,-74.48,Nd
+68,China,36.43,117.45,Nd
+69,USA,39.32,-82.1,Nd
+69,USA,39.46,-81.49,Nd
+70,China,50.93 ,121.50 ,Boreal forest
+71,USA,37.4,-122.23,Grassland
+72,Switzerland,51.53,9.9,Nd
+73,Germany,53.2,10.4,Nd
+74,Sweden,68.35,18.8,Nd
+75,USA,29.33,-90.9,Nd
+76,Germany,53.25,9.97,Heathland ecosystem
+76,Germany,53.25,9.97,Nd
+77,China,40.81,119.65,Nd
+78,China,44.25,87.9,Gurbantunggut Desert 
+79,USA,17.11 ,-88.35 ,Nd
+80,Czech Republic,48.82,16,Grassland
+81,Ireland,52.86,-6.9,Nd
+82,USA,39,-79.69,Temperate deciduous forest
+83,USA,41 (A),-81.85 (A),Nd
+84,USA,35.89,-79,Nd
+85,Germany,53.22,10.4,Nd
+86,Argentina,-54.75,-68.33,Mire
+87,USA,51.49,-0.21,Tidal freshwater marsh
+88,USA,19.47,-155.27,Nd
+89,Italy,41.9,12.5,Nd
+90,Brazil,-25.30 ,49.20 ,Nd
+91,Argentina,-38.73,-62.17,Nd
+92,USA,35.92,-88.7,Nd
+93,Germany,48.13 (A),11.57 (A),Nd
+94,Italy,44.01,10.58,Subalpine health
+95,Italy,46.43,11.4,Nd
+96,USA,39.37,-74.52,Atlantic Coastal Plain
+97,Switzerland ,47.2,8.7,Nd
+98,USA,39.6,-89.67,Coastal marshes
+99,USA,68.63,-149.6,Arctic tundra
+100,USA,35,-79,Nd
+101,Argentina,34.9 (A),-57.95 (A),Nd
+102,Argentina,34.9 (A),-57.95 (A),Nd
+103,France,44.77 (A),-0.55 (A),Nd
+104,USA,44.97 (A),-93.24 (A),Nd
+105,USA,44.85,-93.6,Nd
+106,USA,36 (A),-78.93 (A),Nd
+107,Israel,31.35,34.85,Nd
+108,Sweden,64.23,19.78,Boreal forest
+109,Sweden,64.23,19.78,Boreal forest
+110,Sweden,57.01,14.55,Bog
+110,Sweden,61,13.37,Bog
+111,Sweden,64.18,19.55,Bog mire
+112,USA,45.72 (A),126.64 (A),Nd
+112,China,45.72 (A),126.64 (A),Nd
+113,China,36.43 ,117.45 ,Nd
+114,China,41.85,124.9,Nd
+115,USA,43.04 (A),-76.13 (A),Nd
+116,China,38.78,110.37,Shrubby grassland
+117,UK,-31.95,115.85,Nd
+117,UK,51.27,-1.7,Nd
+118,USA,42.38,-72.35,Upland forest
+119,UK,56.92 (A),-2.58 (A),Nd
+120,UK,54 (A),-2.77 (A),Nd
+121,Switzerland,47,8,Nd
+122,Sweden,68.35,18.67,Arctic ecosystems
+123,Canada,48.46 ,-123.31 ,Nd
+124,Australia,-27.48,153,Nd
+125,China,39.9 (A),116.39 (A),Nd
+126,Netherlands,52.81,6.41,Grassland
+127,Netherlands,52.81,6.41,Nd
+128,USA,39.01,-96.59,Nd
+129,Canada,43,-81.2,Grassland
+130,Switzerland,47.45,8.68,Grassland
+131,USA,68.63,-149.71,Tundra
+132,USA,38.71 ,-90.31 ,Nd
+133,Czech Republic,49.50 ,18.32 ,Fern
+134,Czech Republic,49.82,16,Grassland
+135,Czech Republic,48.82,16,Dry grassland
+136,Czech Republic,49.2,16.57,Nd
+137,Canada,55.28,-77.77,Nd
+138,China,23.18 (A),113.35 (A),Nd
+139,China,38.9,117.13,Nd
+140,USA,40.58 (A),-105.08 (A),Nd
+141,Canada,48.8,-80.38,Nd
+142,Switzerland,48.8,-80.38,Alpine grassland
+143,Canada,55,-113.23,Nd
+144,USA,46,-89,Peatland 
+145,USA,39.4,-122.21,Grassland
+146,USA,43.58,-119.05,Nd
+147,USA,43.6,-119.01,Nd
+148,Czech Republic,50 (A),14.4 (A),Nd
+149,USA,41,104,Semiarid grassland
+150,China,45.5,127.5,Temperate plantation
+150,China,42.45,116.68,Nd
+151,China,42.45,116.68,Nd
+152,China,42.45,116.68,Nd
+152,USA,37.4,-122.23,Grassland
+152,Denmark,56.5,8.91,Danish inland heath
+153,Denmark,56.5,8.91,Danish inland heath
+153,USA,36,-78.93,Nd
+153,USA,38.72,-120.78,Nd
+154,USA,38.72,-120.78,Nd
+154,USA,38.72,-120.78,Nd
+154,USA,35.18,-111.61,Nd
+155,USA,35.18,-111.61,Nd
+156,USA,35.18,-111.61,Nd
+157,USA,35.18,-111.61,Nd
+158,USA,35.18,-111.61,Nd
+158,USA,35.18,-111.61,Nd
+158,USA,34.23 ,-117.32 ,Bracken fern
+158,USA,34.17 ,-116.90 ,Bracken fern
+158,France,6.22,-5,Savannas
+158,Brazil,-23,-48.63,Tropical forest
+159,Brazil,-23,-48.63,Tropical forest
+159,USA,41.23,83.76,Grassland
+159,USA,39.03,82.63,Grassland
+159,USA,39.86,83.68,Grassland
+160,USA,39.86,83.68,Grassland
+160,USA,41.23,-83.76,Grassland
+161,USA,41.23,-83.76,Grassland
+162,USA,41.23,-83.76,Grassland
+162,USA,39.03,-82.63,Grassland
+162,USA,39.86,-83.68,Grassland
+163,Germany,48.5,11.47,Nd
+164,USA,21.3,-157.8,Forest
+165,USA,43.07,-89.4,Prairie
+166,USA,45.63,-89.42,Populus deltoides plantation
+167,USA,31.33,-81.48,Tidal freshwater marsh
+168,India,25.3,83,Nd
+169,Mongolia,47,105.95,Grassland
+170,Japan,43 (A),141.35 (A),Nd
+171,USA,42.3,-71.04,Nd
+172,Netherlands,52.97,5.67,Nd
+173,China,26.73,115,Subtropical forest
+174,Chile,-33,-71,Mediterranean shrubland
+175,USA,42.45,-76.45,Nd
+176,Brazil,-23,-48.63,Tropical forest
+177,USA,41.65 (A),-87.57 (A),Nd
+178,Finland,62.89,27.68,Nd
+179,Australia,-37.72,145.05,Nd
+180,Netherlands,52,5.01,Nd
+181,Indonesia,1.27,116.9,Nd
+182,New Zealand,-37.8,175.3,Grassland
+183,USA,30.83,-87.18,Loblolly pine plantations
+184,UK,55.55,-3.1,Nd
+185,Nd,39.74,104.98,Prairie
+186,USA,44.68 ,-73.45 ,Nd
+187,Sweden,64.01,19.45,Boreal forest
+188,China,39.65,104,Nd
+189,China,36.43,117.45,Nd
+190,Italy,42.37,11.8,Nd
+191,Singapore,1.2,103.5,Nd
+192,Netherlands,52.82,6.42,Nd
+193,Ireland,53.3,7.6,Bog
+193,Ireland,52.7,7,Bog
+193,Netherlands,53.3,7.6,Peat
+193,Netherlands,52.7,7,Peat
+194,China,31.68,103.88,Subalpine coniferous forest ecosystem
+195,China,23.12 (A),115.25 (A),Nd
+196,China,23.15,113.33,Nd
+197,USA,40.95,-81.78,Salt marsh
+198,USA,42.1,-74.25,Hardwood forest
+198,USA,42.1,-74.25,Deciduous forest
+199,USA,40.57,-105,Nd
+200,China,43.63,116.7,Semiarid temperatre grassland
+201,China,36.43,117.45,Nd
+202,Belgium,50.83,4,Nd
+202,Sweden,50.83,4,Nd
+203,USA,42.5,-71.17,Red pine plantation and mixed hardwood stand
+204,Finland,64,26,Boreal forest
+205,Sweden,57.17,14.5,Mire
+206,Finland,66.37,29.3,Boreal forest
+207,Finland,69,20.8,Boreal forest
+207,Finland,69.00 ,20.8,Subarctic birch forest
+208,UK,51.41,-0.64,Nd
+209,Japan,43.01,141.63,Nd
+210,Portugal,38.7,-9.2,Nd
+211,UK,57 (A),-2.1 (A),Nd
+212,Canada,54.01,-115.83,Nd
+213,USA,47.83,81,Nd
+214,Canada,48.42,-123.37,Nd
+215,Canada,43,-81.2,Temperate forest
+216,Canada,49,-123.9,Douglas-fir forest
+217,China,31.87 (A),117.28 (A),Aquatic ecosystem
+218,China,45.35,127.5,Temperate forest
+219,Canada,48.47,-124,Nd
+220,Sweden,68.21,18.5,Nd
+221,USA,41.77 ,-71.32 ,Coastal marshes
+221,USA,41.77 ,-71.32 ,Nd
+222,China,23.17,112.17,Tropical forest
+223,USA,41.75 (A),-111.81 (A),Nd
+224,Australia,-37.72 (A),145.05 (A),Nd
+225,USA,39.03,-76.6,Nd
+226,Chile,-33.35,-70.27,Nd
+227,Japan,35 (A), 140 (A),Nd
+228,South Africa,-28.8,32,Nd
+229,USA,36.75,-115.98,Desert shrub
+230,USA,41.67,-75.5,Nd
+231,Germany,48.22 (A),11.58 (A),Nd
+232,Portugal,38.42 ,-9.15 ,Nd
+233,Japan,36.17,140.22,Sugi plantation
+234,Sweden,64.23,19.78,Boreal coniferous forest
+235,Sweden,64.23,19.78,Boreal coniferous forest
+235,Sweden,64.14 ,19.46 ,Boreal forest
+236,Norway,62.67,11.83,Boreal forest
+236,Norway,62.67,11.83,Fen
+237,Spain,36.89,-2.4,Nd
+238,Russia,43.45,41.68,Alpine lichen health
+238,Russia,43.45,41.68,Alpine meadow
+238,Russia,43.45,41.68,Nd
+238,Russia,43.45 ,41.68 ,Nd
+239,UK,52.89,-4.13,Nd
+240,Sweden,64.23,19.77,Boreal coniferous forest
+241,China,43.63,116.7,Steppe ecosystem
+242,Canada,57.75,-76.33,Forest-tundra ecotone
+243,USA,32.60 ,-117.10 ,Sweetwater Marsh
+244,Canada,59,-123,Nd
+245,UK,52.2 (A),0.12 (A),Nd
+246,Venezuela,8.9,-67.31,Savannas
+247,Finland,65,25.5,Nd
+248,USA,40.67,-105,Nd
+249,Estonia,59.38,24.7,Nd
+250,Estonia,59.38,24.7,Nd
+251,USA,42.78,-76,Forest
+252,USA,45.57,-84.67,Nd
+253,Finland,62.88,27.62,Nd
+254,Finland,65,25.45,Nd
+255,China,42,116.28,Temperate steppe
+256,USA,40.35,-89.01,Nd
+257,USA,46.88,-96.8,Nd
+258,Canada,53.48 (A),-112 (A),Nd
+259,USA,29.76,95.38,Costal prairie
+259,USA,29.76,95.38,Nd
+260,Mongolia,43.6,103.77,Desert stepps
+261,USA,38,-122.49,Nd
+261,USA,38,-122.49,Salt marsh
+262,USA,19.83,-155.01,Tropical plantation
+263,Finland,60.15,25.03,Nd
+264,USA,30.80 ,-84.65 ,Loblolly pine plantations
+265,Spain,41.61,1.83,Shrubland
+266,China,45.72,126.64,Grassland
+267,South Africa,-33.9,18.85,Nd
+268,USA,68.63,-149.58,Tundra
+269,Sweden,65.5,19,Alpine tundra
+270,India,10.22 ,76.22 ,Tropical forest
+270,India,10.13 ,76.13 ,Tropical forest
+271,USA,39.01,-96.58,Tallgrass prairie
+272,USA,34.91,-77.06,Nd
+273,USA,41.8,-72.25,Nd
+274,Korea,37.5,127.7,Temperate forest
+275,China,31.68 ,103.85 ,Nd
+276,Czech Republic,49,14.77,Wetland
+277,UK,54 (A),-2.78 (A),Nd
+278,USA,45,-93,Grassland
+279,Sweden,64.23,19.78,Boreal forest
+280,China,42.42,117.25,Temperate pine plantation
+281,USA,31.29,-92.46,Loblolly pine plantations
+282,USA,36 (A),-78.93 (A),Nd
+283,Republic of Ecuador,-3.95,-79,Nd
+284,USA,35.93,-84.31,Nd
+285,Netherlands,51.85 (A),5.87 (A),Nd
+286,Ireland,53.31,-7.6,Bog
+287,India,25.3,83,Nd
+288,China,29.7,103.23,Bamboo forest
+289,USA,35.79,-78.68,Nd
+290,USA,38.5,-75.67,Marsh
+291,Australia,48.42,-123.37,Nd
+292,Estonia,58.58,23.57,Meadow
+293,USA,45,-93,Nd
+294,USA,37.8,-121.27,Nd
+295,USA,34.15,-118.96,Mediterranean shrubland
+296,Netherlands,52,5.6,Fen meadow
+297,UK,56.88 ,-3.37 ,Heath
+298,Bulgaria,43.4,24.61,Grassland
+299,USA,36.81 ,-115.91 ,Nd
+300,India,24.3,83,Tropical grassland
+301,Argentina,-45.25 (A),-65.3 (A),Nd
+302,Spain,40.48,-3.2,Nd
+303,USA,40.82,-107.77,Shortgrass steppe
+304,USA,39.16,-86.52,Nd
+305,France,47.32,5,Nd
+306,USA,43.07,-89.39,Nd
+307,USA,39,-121,Nd
+308,Australia,-26.2,152.7,Nd
+309,China,32.2,119.45,Nd
+310,China,40,116.33,Nd
+311,USA,45.57,-84.67,Nd
+312,China,34.27,108.07,Nd
+313,China,37.53,101.25,Alpine meadow
+314,USA,35.12,-89.94,Nd
+315,China,37.53,101.25,Alpine meadow
+316,China,35.65,110.01,Nd
+316,China,35.65,110.01,Pinus tabuliformis plantations
+317,China,34.27,108,Nd
+318,China,32.27,91.9,Alpine meadow
+318,China,32.27,91.9,Alpine grassland
+318,China,32.17,91.9,Alpine grassland
+319,Sweden,65.92,17.72,Boreal forest
+320,Sweden,68.35,18.82,Nd
+321,UK,53.38,-1.49,Nd
+322,USA,33.19,-83.4,Loblolly pine stands
+322,USA,31.32,-82.38,Loblolly pine stands
+322,USA,31.21,-82.35,Loblolly pine stands
+323,UK,51.5 (A),-2.55 (A),Nd
+324,UK,54.6,-5.93,Nd
+325,South Africa,-33.95 ,18.45 ,Nd
+326,USA,44.56 (A),-123.28 (A),Shrub steppe ecosystem
+327,China,31.68,103.88,Nd
+328,China,26.5,117.72,Subtropical forest
+329,China,32.02 ,118.50 ,Nd
+330,China,29.5,103.63,Subtropical bamboo forest
+331,China,49,116.35,Nd
+332,China,26.32,117.6,Evergreen forest
+333,China,36.43,117.45,Nd
+334,China,31.68 ,103.88 ,Nd
+335,China,36.43,117.45,Nd
+336,USA,45.57,-84.67,Nd
+337,Canada,62.87,-111.55,Tundra
+338,China,43.63,116.7,Temperate grassland
+339,China,32.23,118.7,Salt marsh
+340,China,30.23,119.7,Subtropical forest
+341,China,43.63,116.7,Temperate grassland
+342,China,44.62 ,88.26 ,Desert
+343,China,29.63,102.97,Nd
+344,China,32.53 ,114.40 ,Nd
+345,China,31.68,103.88,Nd
+346,China,42.45,116.68,Nd
+347,China,44.5,87.75,Nd
+348,China,23.17,112.55,Tropical forest

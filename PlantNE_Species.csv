@@ -1,0 +1,520 @@
+﻿Species,Family,Biol_realm,Growth_form,PFT,Life_history,Leaf_type,Phenology,Photosynthesis,Legume
+Abutilon theophrasti,Malvaceae,Seed,H ,Fo ,A,,,C3,N
+Acacia catechu,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Acacia koa,Fabaceae,Seed,W ,T ,,B ,E ,C3,L 
+Acacia nilotica,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Acacia salicina,Fabaceae,Seed,W ,S ,,,,C3,L 
+Acer mono Maxim,Aceraceae,Seed,W ,T ,,B ,D ,C3,N 
+Acer platanoides,Aceraceae,Seed,W ,T ,,B ,D ,C3,N 
+Acer rubrum,Aceraceae,Seed,W ,T ,,B ,D ,C3,N 
+Acer saccharum,Sapindaceae,Seed,W ,T ,,B ,D ,C3,N 
+Acer truncatum,Aceraceae,Seed,W ,T ,,B ,D ,C3,N 
+Achillea millefolium,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Achnatherum sibiricum,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Achyranthes aspera ,Amaranthaceae,Seed,H ,Fo ,P ,,,C3,N 
+Acmena acuminatissima,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Aegilops kotschyi,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Ageratum conyzoides,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Agropyron cristatum,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Agropyron desertorum,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Agropyron repens,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Agropyron smithii,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Agrostis capillaris,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Ailanthus triphysa,Simaroubaceae,Seed,W ,T ,,B ,E ,C3,N 
+Albizia procera,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Alnus rugosa,Betulaceae,Seed,W ,T ,,B ,D ,C3,N 
+Alternanthera philoxeroides,Amaranthaceae,Seed,H ,Fo ,P ,,,C3,N 
+Alternanthera sessilis,Amaranthaceae,Seed,H ,Fo ,P ,,,C3,N 
+Amaranthus cruentus,Amaranthaceae,Seed,H ,Fo ,A ,,,C4,N 
+Amaranthus hypochondriacus,Amaranthaceae,Seed,H ,Fo ,A ,,,C4,N 
+Amaranthus retroflexus,Amaranthaceae,Seed,H ,Fo ,A ,,,C4,N 
+Ambrosia artemisiifolia,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Andromeda polifolia,Ericaceae,Seed,W ,S ,,,,C3,N 
+Andropogon gerardii,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Anisomeles ovata,Lamiaceae,Seed,H ,Fo ,P ,,,C3,N 
+Anthoxanthum odoratum,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Anthyllis vulneraria,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Antidesma cuspidatum,Phyllanthaceae ,Seed,W ,T ,,B ,E ,C3,N 
+Arctostaphylos alpina,Ericaceae,Seed,W ,S ,,,,C3,N 
+Arctostaphylos rubra,Ericaceae ,Seed,W ,S ,,,,C3,N
+Aristida longiseta ,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Arnica montana,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Arrhenatherum elatius,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Artemisia adamsii,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Artemisia californica,Asteraceae,Seed,W ,S ,,,,C3,N 
+Artemisia capillaris,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Artemisia frigida,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Artemisia lavandulaefolia,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Artemisia tridentata,Asteraceae,Seed,W ,S ,,,,C3,N 
+Artemisia vulgaris,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Asclepias incarnata,Asclepiadaceae,Seed,H ,Fo ,P ,,,C3,N 
+Asclepias syriaca,Asclepiadaceae,Seed,H ,Fo ,P ,,,C3,N 
+Aster macrophyllus ,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Aster spp,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Athyrium distentifolium,Athyriaceae,Spore,O ,Fe ,,,,,
+Atriplex triangularis,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Atylosia marmorata ,Papilionoideae,Seed,H ,Fo ,A ,,,C3,L 
+Avena barbata,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Avena fatua,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Avena nuda,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Avena sativa,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Avenella flexuosa,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Avicennia marina,Verbenaceae,Seed,W ,S ,,,,C3,N 
+Axonopus canescens,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Axyris amaranthoides,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Bassia hyssopifolia,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Bauhinia faberi,Fabaceae,Seed,W ,S ,,,,C3,L 
+Berberis thunbergii,Berberidaceae,Seed,W ,S ,,,,C3,N
+Berteroa incana,Brassicaceae,Seed,H ,Fo ,A ,,,C3,N 
+Betula alleghaniensis,Betulaceae,Seed,W ,T ,,B ,D ,C3,N 
+Betula glandulosa,Betulaceae,Seed,W ,S ,,,,C3,N 
+Betula lenta,Betulaceae,Seed,W ,T ,,B ,D ,C3,N 
+Betula nana,Betulaceae,Seed,W ,S ,,,,C3,N 
+Betula pendula,Betulaceae,Seed,W ,T ,,B ,D ,C3,N 
+Betula platyphylla,Betulaceae,Seed,W ,T ,,B ,D ,C3,N 
+Betula populifolia,Betulaceae,Seed,W ,T ,,B ,D ,C3,N 
+Betula pubescens,Betulaceae,Seed,W ,T ,,B ,D ,C3,N 
+Borago officinalis,Boraginaceae,Seed,H ,Fo ,A ,,,C3,N 
+Bossiaea aquifolium,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Bothriochloa ischaemum,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Bouteloua curtipendula,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Bouteloua eriopoda,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Bouteloua gracilis,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Brachypodium pinnatum,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Brachypodium rupestre,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Brassica juncea,Brassicaceae,Seed,H ,Fo ,A ,,,C3,N 
+Bridelia retusa,Phyllanthaceae,Seed,W ,T ,,B ,E ,C3,N 
+Bromus fasciculatus,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Bromus hordeaceus,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Bromus inermis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Bromus japonicus,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Bromus rubens,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Bromus tectorum,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Bryocaulon divergens,Parmeliaceae,Spore,O ,L ,,,,,
+Calamagrostis canadensis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Calamagrostis epigejos,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Calamagrostis lapponica,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Calamagrostis purpurascens,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Calendula officinalis,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Calliergonella cuspidata,Amblystegiaceae,Spore,O ,M ,,,,,
+Callitropsis nootkatensis,Cupressaceae,Seed,W ,T ,,C ,E ,C3,N 
+Calluna vulgaris,Ericaceae,Seed,W ,S ,,,,C3,N 
+Calophyllum tetrapterum,Calophyllaceae,Seed,W ,T ,,B ,D ,C3,N 
+Campanula rotundifolia,Plantaginaceae,Seed,H ,Fo ,P ,,,C3,N 
+Caragana microphylla,Fabaceae,Seed,W ,S ,,,,C3,L 
+Carex acutiformis,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex bigelowii,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex diandra,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex hystericina,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex korshinskii,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex korshinskyi,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex lasiocarpa,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex membranacea,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex oligosperma,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex panicea,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex podocarpa,Cyperaceae,Seed,H ,G ,P ,,,C4,N 
+Carex rostrata,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex rupestris,Cyperaceae,Seed,H ,G ,P ,,,C4,N 
+Carex scopulorum,Cyperaceae,Seed,H ,G ,P ,,,C4,N 
+Carex spp.,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex stricta,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex tribuloides ,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Carex vaginata,Cyperaceae,Seed,H ,G ,P ,,,C4,N 
+Carrichtera annua,Brassicaceae,Seed,H ,Fo ,A ,,,C3,N 
+Carthamnus tinctorius,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Cassiope tetragona,Ericaceae,Seed,W ,S ,,,,C3,N 
+Castanopsis hystrix,Fagaceae,Seed,W ,T ,,B ,E ,C3,N 
+Cayratia trifolia,Vitaceae,Seed,W ,V ,,,,C3,N 
+Centaurea diffusa,Asteraceae,Seed,H ,Fo ,P ,,,C4,N 
+Centaurea jacea,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Centaurea maculosa,Asteraceae   ,Seed,H ,Fo ,P ,,,C3,N 
+Centaurea solstitialis,Asteraceae,Seed,H ,Fo ,A,,,,N
+Cetraria cucullata,Parmeliaceae,Spore,O ,L ,,,,,
+Cetraria islandica,Parmeliaceae,Spore,O ,L ,,,,,
+Cetraria laevigata,Parmeliaceae,Spore,O ,L ,,,,,
+Cetraria nivalis,Parmeliaceae,Spore,O ,L ,,,,,
+Chamaecyparis obtusa,Cupressaceae,Seed,W ,T ,,C ,E ,C3,N 
+Chamaedaphne calyculata,Ericaceae,Seed,W ,S ,,,,C3,N 
+Chenopodium album,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Chenopodium glaucum,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Chorizema ilicifolium,Fabaceae,Seed,W ,S ,,,,C3,L 
+Chuquiraga oppositifolia,Asteraceae,Seed,W ,S ,,,,C3,N 
+Cirsium dissectum,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Cladina mitis,Cladoniaceae,Spore,O ,L ,,,,,
+Cladina rangiferina,Cladoniaceae,Spore,O ,L ,,,,,
+Cladonia gracilis,Cladoniaceae,Spore,O ,L ,,,,,
+Claytonia virginica,Portulacaceae,Seed,H ,Fo ,P ,,,C3,N 
+Cleistogenes squarrosa,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Clerodendrum indicum,Verbenaceae,Seed,W ,S ,,,,C3,N 
+Colliguaya odorifera,Euphorbiaceae,Seed,W ,T ,,B ,D ,C3,N 
+Commelina benghalensis,Commelinaceae,Seed,H ,Fo ,P ,,,C3,N 
+Cordylanthus maritimus,Scrophulariaceae,Seed,H ,Fo ,A ,,,C3,N 
+Cornus drummondii,Cornaceae,Seed,W ,T ,,B ,D ,C3,N 
+Cornus suecica,Cornaceae,Seed,W ,S ,,,,C3,N 
+Cortaderia pilosa,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Corymbia variegata,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Crithopsis delileana,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Cryptantha flaccida,Boraginaceae,Seed,H ,Fo ,A ,,,C3,N 
+Cryptocarya concinna,Lauraceae,Seed,W ,T ,,B ,E ,C3,N 
+Cryptomeria japonica,Taxodiaceae,Seed,W ,T ,,C ,E ,C3,N 
+Cunninghamia lanceolata,Cupressaceae,Seed,W ,T ,,C ,E ,C3,N 
+Cynodon dactylon ,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Cynodon dactylon × Cynodon transvaalensis,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Dacrydium cupressinum,Podocarpaceae,Seed,W ,T ,,C ,E ,C3,N 
+Dactylis glomerata,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Dalbergia sissoo,Fabaceae,Seed,W ,T ,,B ,E ,C3,L 
+Daucus subsessilis,Apiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Daviesia horrida ,Fabaceae,Seed,W ,S ,,,,C3,L 
+Deschampsia caespitosa,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Deschampsia flexuosa,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Deschampsia nubigena,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Desmodium cuspidatum ,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Dichanthium annulatum ,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Dicranum majus,Dicranaceae,Spore,O ,M ,,,,,
+Dicranum polysetum,Dicranaceae,Spore,O ,M ,,,,,
+Digitaria sanguinalis,Gramineae,Seed,H ,G ,A ,,,C4,N 
+Dillenia suffruticosa,Dilleniaceae,Seed,W ,T ,,B ,D ,C3,N 
+Dimorphotheca pluvialis,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Dipterocarpus kunstleri,Dipterocarpaceae,Seed,W ,T ,,B ,E ,C3,N 
+Distichlis spicata,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Drosera rotundifolia,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Dryas integrifolia,Rosaceae,Seed,W ,S ,,,,C3,N 
+Dryobalanops lanceolata,Dipterocarpaceae,Seed,W ,T ,,B ,E ,C3,N 
+Eclipta prostrata,asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Elaeagnus umbellata,Elaeagnaceae,Seed,W ,S ,,,,C3,N 
+Eleocharis palustris,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Elymus canadensis,Gramineae,Seed,H ,G ,P,,,C3,N
+Elymus elymoides,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Elymus virginicus,Gramineae,Seed,H ,G ,P,,,C3,N
+Empetrum hermaphroditum,Empetraceae,Seed,W ,S ,,,,C3,N 
+Empetrum nigrum,Empetraceae,Seed,W ,S ,,,,C3,N 
+Equisetum spp.,Equisetaceae,Seed,H ,Fo ,P ,,,C3,N 
+Eragrostis curvula,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Eragrostis variabilis,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Erica cinerea,Ericaceae,Seed,W ,S ,,,,C3,N 
+Erica multiflora,Ericaceae,Seed,W ,S ,,,,C3,N 
+Erica tetralix,Ericaceae,Seed,W ,S ,,,,C3,N 
+Erigeron speciosus,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Eriophorum angustifolium,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Eriophorum vaginatum,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Erodium cicutarium,Geraniaceae,Seed,H ,Fo ,A ,,,C3,N 
+Erysimum strictum,Brassicaceae,Seed,H ,Fo ,P ,,,C3,N 
+Eucalyptus acmenoides,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Eucalyptus grandis,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Eucalyptus nitens,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Eucalyptus regnans,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Eucalyptus saligna,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Eucalyptus siderophloia,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Eupatorium purpureum,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Euphorbia esula,Euphorbiaceae,Seed,H ,Fo ,P ,,,C3,N 
+Fagopyrum esculentum,Polygonaceae,Seed,H ,Fo ,A ,,,C3,N 
+Fagus grandifolia,Fagaceae,Seed,W ,T ,,B,D,C3,N
+Fagus sylvatica,Fagaceae,Seed,W ,T ,,B ,D ,C3,N 
+Fargesia qinlingensis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Festuca arundinacea ,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Festuca ovina,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Festuca rubra,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Flaveria bidentis,asteraceae,Seed,H ,Fo ,A ,,,C4,N 
+Fraxinus americana,Oleaceae,Seed,W ,T ,,B ,D ,C3,N 
+Fraxinus mandshurica,Oleaceae,Seed,W ,T ,,B ,D ,C3,N 
+Fraxinus ornus,Oleaceae,Seed,W ,T ,,B ,D ,C3,N 
+Garcinia scortechinii,Clusiaceae,Seed,W ,T ,,B ,D ,C3,N 
+Gastrolobium spinosum,Fabaceae,Seed,W ,S ,,,,C3,L 
+Gliricidia sepium,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Glyceria grandis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Gompholobium knightianum,Fabaceae,Seed,W ,S ,,,,C3,L 
+Griselinia littoralis,Cornaceae,Seed,W ,S ,,,,C3,N 
+Hedypnois cretica,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Hedysarum caucasicum,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Helianthella quinquenervis,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Heliopsis beliantboides,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Hemizonia congesta,Asteraceae,Seed,H ,Fo ,A ,,,C3,L 
+Hepatica nobilis,Ranunculaceae,Seed,H ,Fo ,P ,,,C3,N 
+Herpestis monniera ,Portulacaceae,Seed,H ,Fo ,A ,,,C3,N 
+Hesperis matronalis,Brassicaceae,Seed,H ,Fo ,P,,,Nd,N
+Holcus lanatus,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Hordeum brachyantherum,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Hordeum jubatum ,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Hordeum vulgare,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Hovea chorizemifolia,Fabaceae,Seed,W ,S ,,,,C3,L 
+Larix gmelinii var. japonica × L. kaempferi,Pinaceae,Seed,W ,T ,,C ,D ,C3,N 
+Hylocomium splendens,Hylocomiaceae,Spore,O ,M ,,,,,
+Hymenocarpos circinnatus,Fabaceae,Seed,H ,Fo ,A ,,,C3,L 
+Hyparrhenia rufa,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Ilex paraguariensis ,Aquifoliaceae,Seed,W ,S ,,,,C3,N 
+Impatiens parvifiora,Balsaminaceae,Seed,H ,Fo ,A ,,,C3,N 
+Ipomoea cairica,Convolvulaceae,Seed,H ,Fo ,P ,,,C3,N 
+Isatis tinctoria,Brassicaceae,Seed,H ,Fo ,P ,,,C3,N 
+Jaumea carnosa,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Kennedia coccinea ,Fabaceae,Seed,W ,S ,,,,C3,L 
+Kobresia humilis,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Kobresia myosuroides,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Kobresia pygmaea,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Kobresia tibetica,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Kochia prostrata,Chenopodiaceae,Seed,W ,S ,,,,C3,N 
+Koeleria cristata,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Lagerstroemia parviflora,Lythraceae,Seed,W ,T ,,B ,D ,C3,N 
+Larix gmelinii,Pinaceae,Seed,W ,T ,,C ,D ,C3,N 
+Larix kaempferi,Pinaceae,Seed,W ,T ,,C ,D ,C3,N 
+Larix laricina,Pinaceae,Seed,W ,T ,,C ,D ,C3,N 
+Larix leptolepis,Pinaceae,Seed,W ,T ,,C ,D ,C3,N 
+Larix olgensis,Pinaceae,Seed,W ,T ,,C ,D ,C3,N 
+Larix Principis-rupprechtii,Pinaceae,Seed,W ,T ,,C ,D ,C3,N 
+Larrea tridentata,Zygophyllaceae,Seed,W ,S ,,,,C3,N 
+Lasthenia californica,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Lathyrus pratensis,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Lathyrus vernus,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Layia gaillardioides,Asteraceae,Seed,H ,Fo ,A ,,,C4,N 
+Ledum groenlandicum,Ericaceae,Seed,W ,S ,,,,C3,N 
+Ledum palustre,Ericaceae,Seed,W ,S ,,,,C3,N 
+Lemna minor,Lemnaceae,Seed,H ,Fo ,P ,,,C3,N 
+Lespedeza capitata,Fabaceae,Seed,W ,S ,,,,C3,L 
+Lespedeza davurica,Fabaceae,Seed,W ,S ,,,,C3,L 
+Leucaena leucocephala,Fabaceae,Seed,W ,T ,,B ,E ,C3,L 
+Leymus chinensis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Linnaea borealis,Caprifoliaceae,Seed,W ,S ,,,,C3,N 
+Linum usitatissimum,Linaceae,Seed,H ,Fo ,A ,,,C3,N 
+Liriodendron tulipifera,Magnoliaceae,Seed,W ,T ,,B ,D ,C3,N 
+lithraea caustica,Anacardiaceae,Seed,W ,T ,,B ,E ,C3,N 
+Lolium multiflorum,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Lolium perenne ,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Lotus corniculatus,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Lotus wrangelianus,Fabaceae,Seed,H ,Fo ,A ,,,C3,L 
+Lupinus perennis,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Luzula alpinopilosa,Juncaceae,Seed,H ,G ,P ,,,C3,N 
+Lycium barbarum,Solanaceae,Seed,W ,S ,,,,C3,N 
+Lyngbya majuscula,Oscillatoriaceae,Spore,O ,A,,,,,
+Lyonia lucida,Ericaceae,Seed,W ,S ,,,,C3,N 
+Macaranga gigantea,Euphorbiaceae,Seed,W ,T ,,B ,E ,C3,N 
+Macaranga heynei,Euphorbiaceae,Seed,W ,T ,,B ,E ,C3,N 
+Malcolmia africana,Brassicaceae,Seed,H ,Fo ,A ,,,C3,N 
+Malus coronaria,Rosaceae,Seed,W ,T ,,B ,D ,C3,N 
+Masonhalea richardsonni,Parmeliaceae,Spore,O ,L ,,,,,
+Matricaria discoidea,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Matricaria recutita,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Medicago lupulina,Fabaceae,Seed,H ,Fo ,A ,,,C3,L 
+Medicago minima,Fabaceae,Seed,H ,Fo ,A ,,,C3,L 
+Medicago sativa,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Medicago truncatula,Fabaceae,Seed,H ,Fo ,A ,,,C3,L 
+Melaleuca ericifolia,Myrtaceae ,Seed,W ,S ,,,,C3,N
+Melicope glabra,Rutaceae,Seed,W ,T ,,B ,E ,C3,N 
+Melilotoides ruthenica,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Melilotus altissima,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Melinis minutiflora,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Merremia hederacea,Convolvulaceae,Seed,H ,Fo ,A ,,,C3,N 
+Metrosideros polymorpha,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Metrosideros umbellata,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Miconia barbinervis,Melastomataceae,Seed,W ,S ,,,,C3,N 
+Miconia gracilis,Melastomataceae,Seed,W ,S ,,,,C3,N 
+Miconia nervosa ,Melastomataceae,Seed,W ,S ,,,,C3,N 
+Milium effusum,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Molinia caerulea,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Nardus stricta,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Narthecium ossifragum,Liliaceae,Seed,H ,Fo ,P ,,,C3,N 
+Nassella pulchra,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Nepeta micrantha,Labiatae,Seed,H ,Fo ,A ,,,C3,N 
+Onobrychis viciifolia,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Ononis spinosa,Fabaceae,Seed,W ,S ,,,,C3,L 
+Oplismenus burmannii ,Gramineae,Seed,H ,G ,A ,,,C4,N 
+Ormosia pinnata,Fabaceae,Seed,W ,T ,,B ,E ,C3,L 
+Oxalis purpurea,Oxalidaceae,Seed,H ,Fo ,P ,,,C3,N 
+Panicum crus-galli,Gramineae,Seed,H ,G ,A ,,,C4,N 
+Panicum hemitomon,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Panicum miliaceum,Gramineae,Seed,H ,G ,A ,,,C4,N 
+Panicum psilopodium ,Gramineae,Seed,H ,G ,A ,,,C4,N 
+Panicum virgatum ,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Papaver dubium,Papaveraceae,Seed,H ,Fo ,A ,,,C3,N 
+Pascopyrum smithii,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Paspalum urvillei,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Pedicularis nordmanniana,Scrophulariaceae,Seed,H ,Fo ,P ,,,C3,N 
+Pennisetum centrasiaticum,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Pennisetum pedicellatum,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Peronema canescens,Lamiaceae,Seed,W ,T ,,B ,E ,C3,N 
+Persea rimosa,Lauraceae,Seed,W ,T ,,B ,E ,C3,N 
+Phalaris arundinacea,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Phragmites australis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Phyllanthus emblica,Euphorbiaceae,Seed,W ,T ,,B ,D ,C3,N 
+Phytolacca rivinoides,Phytolaccaceae,Seed,H ,Fo ,P ,,,C3,N 
+Picea abies,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Picea asperata,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Picea engelmannii,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Picea glauca,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Picea mariana,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Picea rubens,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Picris hieracioides,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Pinus banksiana,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus echinata,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus elliottii,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus massoniana,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus ponderosa,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus resinosa,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus rigida,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus sylvestris,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus tabulaeformis,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus tabuliformis,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Pinus taeda ,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Piper arieianum ,Piperaceae,Seed,W ,S ,,,,C3,N 
+Piper culebranum ,Piperaceae,Seed,W ,S ,,,,C3,N 
+Piper urostachyum,Piperaceae,Seed,W ,S ,,,,C3,N 
+Pisum sativum ,Fabaceae,Seed,H ,Fo ,A ,,,C3,L 
+Plantago erecta,Plantaginaceae,Seed,H ,Fo ,A ,,,C3,N 
+Plantago lanceolata ,Plantaginaceae,Seed,H ,Fo ,P ,,,C3,N 
+Platanus occidentalis,Platanaceae,Seed,W ,T ,,B ,D ,C3,N 
+Pleioblastus amarus,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Pleurozium schreberi,Hylocomiaceae,Spore,O ,M ,,,,,
+Poa alpina,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Poa arctica,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Poa compressa,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Poa pratensis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Poa trivialis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Polygonum bistorta,Polygonaceae,Seed,H ,Fo ,P ,,,C3,N 
+Populus ×euramericana cv.Eugenei,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Populus alba,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Populus deltoides,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Populus maximowiczii × P. nigra var. plantierensis,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Populus nigra ,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Populus tremula,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Populus tremuloides,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Posidonia australis,Potamogetonaceae,Seed,H ,Fo ,P,,,Nd,N
+Potamogeton amplifolius,Potamogetonaceae,Seed,H ,Fo ,P ,,,C3,N 
+Potentilla fruiticosa,Rosaceae,Seed,W ,S ,,,,C3,N 
+Potentilla tanacetifolia,Rosaceae,Seed,H ,Fo ,P ,,,C3,N 
+Prosopis alba,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Prosopis flexuosa,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Prosopis glandulosa,Fabaceae,Seed,W ,S ,,,,C3,L 
+Prosopis strombuli,Fabaceae,Seed,W ,S ,,,,C3,L 
+Protea repens,Proteaceae,Seed,W ,S ,,,,C3,N 
+Prumnopitys ferruginea,Podocarpaceae,Seed,W ,T ,,C ,E ,C3,N 
+Prunella vulgaris ,Lamiaceae,Seed,H ,Fo ,P ,,,C3,N 
+Prunus pensylvanica,Rosaceae,Seed,W ,T ,,B ,D ,C3,N 
+Prunus serotina,Rosaceae,Seed,W ,T ,,B ,D ,C3,N 
+Pseudoroegenaria spicata,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Pseudoroegneria spicata,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Pseudotsuga menziesii,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Psidium cattleianum,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Pteridium aquilinum ,Dennstaedtiaceae,Spore,O ,Fe ,,,,,
+Quercus acutissima,Fagaceae,Seed,W ,T ,,B ,D ,C3,N 
+Quercus ilex,Fagaceae,Seed,W ,T ,,B ,E ,C3,N 
+Quercus mongolica,Fagaceae,Seed,W ,T ,,B ,D ,C3,N 
+Quercus robur,Fagaceae,Seed,W ,T ,,B ,D ,C3,N 
+Quercus rubra,Fagaceae,Seed,W ,T ,,B ,D ,C3,N 
+Quercus suber,Fagaceae,Seed,W ,T ,,B ,E ,C3,N 
+Quercus variabilis,Fagaceae,Seed,W ,T ,,B ,D ,C3,N 
+Quercus velutina,Fagaceae,Seed,W ,T ,,B ,D ,C3,N 
+Racomitrium lanuginosum,Grimmiaceae,Spore,O ,M ,,,,,
+Ranunculus glacialis,Ranunculaceae,Seed,H ,Fo ,P ,,,C3,N 
+Rhamnus cathartica,Rhamnaceae,Seed,W ,T ,,B ,D ,C3,N 
+Rhizophora mangle,Rhizophoraceae,Seed,W ,T ,,B ,E ,C3,N 
+Rhododendron lapponicum,Ericaceae,Seed,W ,S ,,,,C3,N 
+Rhododendron subarcticum,Ericaceae,Seed,W ,S ,,,,C3,N 
+Rhus typhina,Anacardiaceae,Seed,W ,T ,,B ,D ,C3,N 
+Rhynchospora alba,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Rhytidium rugosum,Rhytidiaceae,Spore,O ,M ,,,,,
+Robinia pseudoacacia ,Fabaceae,Seed,W ,T ,,B ,D ,C3,L 
+Rubus chamaemorus,Rosaceae,Seed,H ,Fo ,P ,,,C3,N 
+Rubus saxatilis,Rosaceae,Seed,W ,S ,,,,C3,N 
+Rubus spectabilis,Rosaceae,Seed,W ,S ,,,,C3,N 
+Rumex obtusifolius ,Polygonaceae,Seed,H ,Fo ,P ,,,C3,N 
+Rumex orbiculatus,Polygonaceae,Seed,H ,Fo ,P ,,,C3,N 
+Sagittaria lancifolia,Alismataceae,Seed,H ,Fo ,P ,,,C3,N 
+Sagittaria latifolia,Alismataceae,Seed,H ,Fo ,P ,,,C3,N 
+Salicornia europaea,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Salix arctica,Salicaceae,Seed,W ,S ,,,,C3,N 
+Salix glauca,Salicaceae,Seed,W ,S ,,,,C3,N 
+Salix planifolia,Salicaceae,Seed,W ,S ,,,,C3,N
+Salix pulchra,Salicaceae,Seed,W ,S ,,,,C3,N 
+Salix reticulata,Salicaceae,Seed,W ,S ,,,,C3,N 
+Salsola collina,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Salsola kali ,Chenopodiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Sapium sebiferum,Euphorbiaceae,Seed,W ,T ,,B ,D ,C3,N 
+Sarcocornia pacifica,Chenopodiaceae,Seed,H ,Fo ,P ,,,C3,N 
+Sarracenia purpurea,Sarraceniaceae,Seed,H ,Fo ,P ,,,C3,N 
+Satureja hortensis,Lamiaceae,Seed,H ,Fo ,A ,,,C3,N 
+Scabiosa porphyroneura,Dipsacaceae,Seed,H ,Fo ,A ,,,C3,N 
+Schima superba,Theaceae,Seed,W ,T ,,B ,E ,C3,N 
+Schismus spp.,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Schizachyrium scoparium,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Scirpus americanus,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Scirpus atrovirens,Cyperaceae,Seed,H ,G ,P ,,,C3,N 
+Sedum plumbizincicola,Crassulaceae,Seed,H ,Fo ,P ,,,CAM,N 
+Senecio vulgaris,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Senna obtusifolia,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Sesleria caerulea,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Setaria sphacelata,Gramineae,Seed,H ,G ,A ,,,C4,N 
+Shorea johorensis,Dipterocarpaceae,Seed,W ,T ,,B ,E ,C3,N 
+Shorea leprosula,Dipterocarpaceae,Seed,W ,T ,,B ,E ,C3,N 
+Shorea oleosa,Dipterocarpaceae,Seed,W ,T ,,B ,E ,C3,N 
+Sibbaldia procumbens,Rosaceae,Seed,H ,Fo ,P ,,,C3,N 
+Sium suave,Apioideae,Seed,H ,Fo ,P ,,,C3,N 
+Solanum nigrum,Solanaceae,Seed,H ,Fo ,A ,,,C3,N 
+Solidago canadensis,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Solidago graminifolia,Asteraceae   ,Seed,H ,Fo ,P ,,,C3,N 
+Solidago juncea,Asteraceae   ,Seed,H ,Fo ,P ,,,C3,N 
+Solidago nemoralis,Asteraceae,Seed,H ,Fo ,P,,,C3,N
+Solidago rigida,Asteraceae,Seed,H ,Fo ,P ,,,C3,N 
+Sonchus asper,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Sophora davidii,Fabaceae,Seed,W ,S ,,,,C3,L 
+Sorghastrum nutans,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Spartina alterniflora,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Spartina patens,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Spartina pectinata,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Sphaerolobium vimineum,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Sphagnum,Sphagnaceae,Spore,O ,M ,,,,,
+Sphagnum balticum,Sphagnaceae,Spore,O ,M ,,,,,
+Sphagnum fuscum,Sphagnaceae,Spore,O ,M ,,,,,
+Sphagnum magellanicum,Sphagnaceae,Spore,O ,M ,,,,,
+Sphagnum papillosum,Sphagnaceae,Spore,O ,M ,,,,,
+Sphagnum rubellum,Sphagnaceae,Spore,O ,M ,,,,,
+Sporobolus kentrophyllus,Gramineae,Seed,H ,G ,A ,,,C4,N 
+Stellaria media,Caryophyllaceae,Seed,H ,Fo ,A ,,,C3,N 
+Stellaria nemorum ,Caryophyllaceae,Seed,H ,Fo ,A ,,,C3,N 
+Stipa bungeana,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Stipa capensis,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Stipa comata,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Stipa gobica,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Stipa grandis,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Stipa krylovii,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Stipa purpurea,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Succisa pratensis,Dipsacaceae,Seed,H ,Fo ,P ,,,C3,N 
+Syntrichia caninervis,Pottiaceae,Spore,O ,M ,,,,,
+Syzygium hancei,Myrtaceae,Seed,W ,T ,,B ,E ,C3,N 
+Taeniatherum caput-medusae ,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Terminalia arjuna,Combretaceae,Seed,W ,T ,,B ,D ,C3,N 
+Thalictrum alpinum,Ranunculaceae,Seed,H ,Fo ,P ,,,C3,N 
+Thlaspi caerulescens,Brassicaceae,Seed,H ,Fo ,P ,,,C3,N 
+Thuja plicata,Cupressaceae,Seed,W ,T ,,C ,E ,C3,N 
+Tofieldia pusilla,Liliaceae,Seed,H ,Fo ,P ,,,C3,N 
+Tomenthypnum nitens,Brachytheciaceae,Spore,O ,M ,,,,,
+Torreya grandis,Taxaceae,Seed,W ,T ,,C ,E ,C3,N 
+Trachypogon plumosus,Gramineae,Seed,H ,G ,P ,,,C4,N 
+Trema tomentosa,Ulmaceae,Seed,W ,T ,,B ,D ,C3,N 
+trevoa trinervis,Rhamnaceae,Seed,W ,S ,,,,C3,N 
+Tribolium uniolae,Gramineae,Seed,H ,G ,P ,,,C3,N 
+Trientalis europaea,Primulaceae,Seed,H ,Fo ,P ,,,C3,N 
+Trifolium campestre,Fabaceae,Seed,H ,Fo ,A ,,,C3,L 
+Trifolium pratense,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Trifolium repens,Fabaceae,Seed,H ,Fo ,P ,,,C3,L 
+Tripleurospermum inodorum,Asteraceae,Seed,H ,Fo ,A ,,,C4,N 
+Tsuga canadensis,Pinaceae,Seed,W ,T ,,C,E,C3,N
+Tsuga heterophylla,Pinaceae,Seed,W ,T ,,C ,E ,C3,N 
+Typha angustifolia,Typhaceae,Seed,H ,Fo ,P ,,,C3,N 
+Typha xglauce,Typhaceae,Seed,H ,Fo ,P ,,,C3,N 
+Vaccinium myrtilloides,Ericaceae,Seed,W ,S ,,,,C3,N 
+Vaccinium myrtillus,Ericaceae,Seed,W ,S ,,,,C3,N 
+Vaccinium ovalifolium,Ericaceae,Seed,W ,S ,,,,C3,N 
+Vaccinium oxycoccus,Ericaceae,Seed,W ,S ,,,,C3,N 
+Vaccinium uliginosum,Ericaceae,Seed,W ,S ,,,,C3,N 
+Vaccinium vitis-idaea,Ericaceae,Seed,W ,S ,,,,C3,N 
+Valeriana capitata,Valerianaceae,Seed,H ,Fo ,P ,,,C3,N 
+Vallisneria natans,Hydrocharitaceae,Seed,H ,Fo ,P ,,,C4,N 
+Vallisneria spinulosa,Hydrocharitaceae,Seed,H ,Fo ,P ,,,CAM,N 
+Ventenata dubia,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Veronica alpina,Scrophulariaceae,Seed,H ,Fo ,P ,,,C3,N 
+Viola arvensis,Violaceae,Seed,H ,Fo ,A ,,,C3,N 
+Vitis vinifera,Vitaceae,Seed,W ,S ,,,,C3,N 
+Vulpia microstachys ,Gramineae,Seed,H ,G ,A ,,,C3,N 
+Weinmannia racemosa,Cunoniaceae,Seed,W ,T ,,B ,E ,C3,N 
+willow,Salicaceae,Seed,W ,T ,,B ,D ,C3,N 
+Zenobia pulverulenta,Ericaceae,Seed,W ,S ,,,,C3,N 
+Zinnia elegans,Asteraceae,Seed,H ,Fo ,A ,,,C3,N 
+Zizaniopsis miliacea,Gramineae,Seed,H ,G ,P ,,,C3,N 

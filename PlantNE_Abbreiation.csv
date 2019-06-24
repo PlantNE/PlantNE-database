@@ -1,0 +1,77 @@
+﻿Table,Column,Abbreviation,Definition
+PlantNE_Species,Biol_realm,Seed,Seed plant
+PlantNE_Species,Biol_realm,Spore,Spore plant
+PlantNE_Species,Growth_form,H,Herbaceous plant
+PlantNE_Species,Growth_form,O,Other plant: plants neither belong to herbaceous plants nor woody plants.
+PlantNE_Species,Growth_form,W,Woody plant
+PlantNE_Species,PFT,A,Algae
+PlantNE_Species,PFT,Fe,Fern
+PlantNE_Species,PFT,Fo,Forb
+PlantNE_Species,PFT,G,Grass
+PlantNE_Species,PFT,L,Lichen
+PlantNE_Species,PFT,M,Moss
+PlantNE_Species,PFT,S,Shrub
+PlantNE_Species,PFT,T,Tree
+PlantNE_Species,PFT,V,Vine
+PlantNE_Species,Life_history,A,Annual herbs
+PlantNE_Species,Life_history,P,Perennial herbs
+PlantNE_Species,Leaf_type,B,Broadleaf tree
+PlantNE_Species,Leaf_type,C ,Coniferous tree
+PlantNE_Species,Phenology,D,Deciduous tree
+PlantNE_Species,Phenology,E,Evergreen tree
+PlantNE_Species,Photosynthesis,C3,C3 plant
+PlantNE_Species,Photosynthesis,C4,C4 plant
+PlantNE_Species,Photosynthesis,CAM,CAM plant
+PlantNE_Species,Legume,L,Legume plant
+PlantNE_Species,Legume,N,Nonlegume plant
+PlantNE_Biomass,P_pattern,Mono,Monoculture: single species
+PlantNE_Biomass,P_pattern,Mix,Mixture: more than two species
+PlantNE_Biomass,P_part,AGP,"Aboveground biomass, aboveground dead, aboveground live, aboveground vascular, Leaves and stems, Dead leaves and stems"
+PlantNE_Biomass,P_part,BGP,"Belowground biomass, Belowground live, Rhizome"
+PlantNE_Biomass,P_part,Bud,Bud
+PlantNE_Biomass,P_part,CR,"Coarse root, coarse live root(0-30cm soil depth), coarse live root(0-90cm soil depth)"
+PlantNE_Biomass,P_part,FR,"Fine root, Root (<1mm), Root (1-2mm), Root (<2mm), Fine root (15-30cm soil depth), Dead fine root, Live fine root, Fine live root (0-30cm soil depth), Fine live root (0-90cm soil depth), Fine root (0-15cm soil depth), Fine root (15-30cm soil depth)"
+PlantNE_Biomass,P_part,Leaf,"Leaf, Needle, Blade, Frond, Midribs, Petiole, Rachis, Leaf litter"
+PlantNE_Biomass,P_part,Litter,"Litter, Leaf litter, Wood litter"
+PlantNE_Biomass,P_part,Repro,"Flower, capitulum, Nut, Fruit, Kernel, Pod wall, Seed"
+PlantNE_Biomass,P_part,Root,"Root, Root (1st), Root (2st), Root (3st), Root (4st), Root (5st), Root and Rhizomes, Tiller"
+PlantNE_Biomass,P_part,Shoot ,Shoot
+PlantNE_Biomass,P_part,Stem,"Stem, Trunk, Wood, Wood litter, Branch, Bark, Cork,  Support, Branch green part"
+PlantNE_Biomass,P_part,WP,"Whole plant biomass, Living biomass, Standing biomass, Twiglet, Ramets, Cutting"
+PlantNE_Biomass,N_other_treat,Burn,Burning treatment
+PlantNE_Biomass,N_other_treat,Ca,Calcium addition
+PlantNE_Biomass,N_other_treat,Clip,Clipped plant
+PlantNE_Biomass,N_other_treat,CO2,CO2 enrichment
+PlantNE_Biomass,N_other_treat,D,Drought treatment
+PlantNE_Biomass,N_other_treat,Distur,Disturbance
+PlantNE_Biomass,N_other_treat,Fe,Ferrum addition
+PlantNE_Biomass,N_other_treat,Herbiv,Herbivory treament
+PlantNE_Biomass,N_other_treat,K,Potassium addition
+PlantNE_Biomass,N_other_treat,Light,Light treatment
+PlantNE_Biomass,N_other_treat,Litter,Litter remove
+PlantNE_Biomass,N_other_treat,Nutrient,Nutrient addition
+PlantNE_Biomass,N_other_treat,O3,Ozone addition
+PlantNE_Biomass,N_other_treat,Other,Other treatment
+PlantNE_Biomass,N_other_treat,P,Phosphorus addition
+PlantNE_Biomass,N_other_treat,PK,Phosphorus and Potassium addition
+PlantNE_Biomass,N_other_treat,Salinity,Salinity treatment
+PlantNE_Biomass,N_other_treat,S,Sulphur addition
+PlantNE_Biomass,N_other_treat,Warm,Warming treatment
+PlantNE_Biomass,N_other_treat,Water,Water addition
+PlantNE_Biomass,N_other_treat,FeEDTA,Chelated iron
+PlantNE_Biomass,Site_type,C,"Cabinet, Growth cabinet"
+PlantNE_Biomass,Site_type,Field,Natural condition
+PlantNE_Biomass,Site_type,GC,"Growth chamber, Chamber"
+PlantNE_Biomass,Site_type,GlassH,Glasshouse
+PlantNE_Biomass,Site_type,GR ,Growth room
+PlantNE_Biomass,Site_type,GreenH,Greenhouse
+PlantNE_Biomass,Site_type,M,Mesocosm
+PlantNE_Biomass,Site_type,OTC,Open-top chamber
+PlantNE_Biomass,Site_type,Pot,"Container, Pot, PVC, Tube, Box, Eternit boxes"
+PlantNE_Biomass,Site_type,P,Phytotron
+PlantNE_Biomass,Site_type,SH,Screen house
+PlantNE_Biomass,Site_type,T,Tent
+PlantNE_Biomass,Site_condition,F,Field in Site_type. csv
+PlantNE_Biomass,Site_condition,C,"Cab, GC, GlassH, GR, GreenH, M, OTC, Pot, Phytotron, SH, Tent in Site_type. csv"
+PlantNE_Site,Latitude,,"We define the negative value as South, and the positive as North."
+PlantNE_Site,Longitude,,"We define the negative value as West, and the positive as East."
